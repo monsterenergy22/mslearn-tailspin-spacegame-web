@@ -1,0 +1,7 @@
+organization=space-game-web-l33t
+projectKey=monsterenergy22_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8111
+dashboardUrl=https://sonarcloud.io/dashboard?id=monsterenergy22_mslearn-tailspin-spacegame-web
+ceTaskId=AXIp3mubh3ociwC8waQx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIp3mubh3ociwC8waQx
